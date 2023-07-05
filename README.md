@@ -1,4 +1,2 @@
 # FNAF-1-HTML5
-The original Five Nights At Freddy's, decompiled, then recompiled for HTML5.
-
-Switched To Demo Version Of Game.
+A custom version of fnaf based off the demo version. 
